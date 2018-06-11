@@ -1,0 +1,40 @@
+body {
+  padding-top: 100px;
+  font-size: 16px;
+	line-height: 1.5;
+}
+
+#navbar-gap {
+  margin-top: -4%;
+}
+
+.thumbnail img {
+	max-height: 150px;
+}
+
+.thumbnail .description {
+	color: #7f7f7f;
+}
+
+.price {
+	font-weight: bold;
+	font-size: 16px;
+}
+
+.product-image {
+  width: 100%;
+}
+
+
+main {
+	padding: 50px 0;
+  min-height: calc(100vh - 40px);
+}
+
+footer {
+	padding: 30px 0;
+	font-size: 14px;
+	color: #BBB;
+	background: #222;
+	text-align: center;
+}
